@@ -1,1 +1,12 @@
 ahora si, ya puedo hacer el commit 
+
+Cuando se realiza varios archivos y se escribe el comando "git add .", todos los archivos pasan del directorio de trabjo al area de preparacion
+o staging, pero que pasa si quieres cancelar un archivo que no es, pero ya la tienes en staging, entonces para sacar ese archivo solo, 
+se da el comando "git reset HEAD + nombre del archivo..
+
+ejemplo 
+
+git reset HEAD prueba.txt
+
+entonces lo que va a realizar el comando es sacar ese archivo del stagin y mandarlo al directorio de trabajo, para editarlo y los otros archivos 
+quedan intactos...
