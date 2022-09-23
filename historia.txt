@@ -12,3 +12,6 @@ Hola soy Tomas y estoy colaborando con tu proyecto
 
 Hola Tomas, como estasa? leii tu mensaje y con mucho gustoparticipamos
 de estre gran comienzo en git 
+
+Vale Carlos, entonces quedo encargado de la parte de
+footer, muchas gracias..
