@@ -41,6 +41,13 @@
         border: 1px solid #DDD;
         margin: 0 auto;
     }
+
+    #footer
+    {
+        background: #777;
+        color: white;
+        text-align: center;
+    }
     
     #container h1
     {
