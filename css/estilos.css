@@ -34,6 +34,13 @@
         border: 1px solid rgb(221, 221, 221);
         margin: 0 auto;
     }
+
+    #footer
+    {
+        background: #777;
+        color: white;
+        text-align: center;
+    }
     
     #container h1
     {
