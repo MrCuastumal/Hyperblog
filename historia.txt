@@ -15,3 +15,5 @@ de estre gran comienzo en git
 
 Vale Carlos, entonces quedo encargado de la parte de
 footer, muchas gracias..
+
+Mira ahi arregle el titulo de el blog :), trabajo realizado 
