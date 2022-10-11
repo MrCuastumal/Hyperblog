@@ -10,3 +10,5 @@ git reset HEAD prueba.txt
 
 entonces lo que va a realizar el comando es sacar ese archivo del stagin y mandarlo al directorio de trabajo, para editarlo y los otros archivos 
 quedan intactos...
+
+Hice este cambio socios
